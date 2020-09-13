@@ -1,5 +1,3 @@
-const e = require('express');
-
 exports.validate = (tc, name, surname, yearOfBirth) => {
     return new Promise(
         function (resolve, reject) {
