@@ -1,6 +1,6 @@
 #TCValidator
 
-#### Node JS için TC kimlik bilgileri doğrulama araçı.
+#### Node JS için TC kimlik bilgileri doğrulama aracı.
 
 ## Kullanımı
 ```
