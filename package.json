@@ -14,5 +14,9 @@
   "dependencies": {
     "axios": "^0.20.0",
     "soap": "^0.33.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbdurrahmanA/tcvalidator.git"
   }
 }
